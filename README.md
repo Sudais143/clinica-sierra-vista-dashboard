@@ -41,14 +41,13 @@ Users such as country managers, segment owners, and product leads view only the 
 
 ## 📸 Snapshots
 
-```markdown
-![Welcome Page](./snapshot_clinica_welcome.png)
-![Sales Overview](./snapshot_clinica_sales.png)
-![RLS Role Setup](./snapshot_clinica_rls_setup.png)
-![View as Role](./snapshot_clinica_rls_roles.png)
-```
 
----
+![WhatsApp Image 2025-05-22 at 08 44 40_e25c2f2b](https://github.com/user-attachments/assets/3856672f-5273-434c-b5c8-535f3d09ae5b)
+
+
+
+---![WhatsApp Image 2025-05-22 at 08 44 41_13d26bd7](https://github.com/user-attachments/assets/67ae3f05-6918-416c-9d1c-8fb76fb51fd2)
+
 
 ## 🧭 Final Thoughts
 
